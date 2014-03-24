@@ -1,7 +1,7 @@
 rmarshal
 ========
 
-dump and load marshal data via lua, and equal to ruby marshal
+dump and load ruby marshal data via lua, and equal to ruby marshal format
 
 ## Requirements
 
